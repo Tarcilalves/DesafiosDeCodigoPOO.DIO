@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\bin\Debug\net8.0\02UtilizandoPropriedadesEMétodos.exe
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\bin\Debug\net8.0\02UtilizandoPropriedadesEMétodos.deps.json
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\bin\Debug\net8.0\02UtilizandoPropriedadesEMétodos.runtimeconfig.json
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\bin\Debug\net8.0\02UtilizandoPropriedadesEMétodos.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\bin\Debug\net8.0\02UtilizandoPropriedadesEMétodos.pdb
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\02UtilizandoPropriedadesEMétodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\02UtilizandoPropriedadesEMétodos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\02UtilizandoPropriedadesEMétodos.AssemblyInfo.cs
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\02UtilizandoPropriedadesEMétodos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\02UtilizandoPropriedadesEMétodos.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\refint\02UtilizandoPropriedadesEMétodos.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\02UtilizandoPropriedadesEMétodos.pdb
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\02UtilizandoPropriedadesEMétodos.genruntimeconfig.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\02UtilizandoPropriedadesEMétodos\obj\Debug\net8.0\ref\02UtilizandoPropriedadesEMétodos.dll

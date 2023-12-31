@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\bin\Debug\net8.0\04UtilizandoConstrutores.exe
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\bin\Debug\net8.0\04UtilizandoConstrutores.deps.json
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\bin\Debug\net8.0\04UtilizandoConstrutores.runtimeconfig.json
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\bin\Debug\net8.0\04UtilizandoConstrutores.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\bin\Debug\net8.0\04UtilizandoConstrutores.pdb
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\04UtilizandoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\04UtilizandoConstrutores.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\04UtilizandoConstrutores.AssemblyInfo.cs
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\04UtilizandoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\04UtilizandoConstrutores.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\refint\04UtilizandoConstrutores.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\04UtilizandoConstrutores.pdb
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\04UtilizandoConstrutores.genruntimeconfig.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\04UtilizandoConstrutores\obj\Debug\net8.0\ref\04UtilizandoConstrutores.dll

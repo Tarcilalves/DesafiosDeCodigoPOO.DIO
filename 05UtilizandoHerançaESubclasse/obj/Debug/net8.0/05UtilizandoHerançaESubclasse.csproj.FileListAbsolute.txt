@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\05UtilizandoHerançaESubclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\05UtilizandoHerançaESubclasse.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\05UtilizandoHerançaESubclasse.AssemblyInfo.cs
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\05UtilizandoHerançaESubclasse.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\bin\Debug\net8.0\05UtilizandoHerançaESubclasse.exe
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\bin\Debug\net8.0\05UtilizandoHerançaESubclasse.deps.json
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\bin\Debug\net8.0\05UtilizandoHerançaESubclasse.runtimeconfig.json
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\bin\Debug\net8.0\05UtilizandoHerançaESubclasse.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\bin\Debug\net8.0\05UtilizandoHerançaESubclasse.pdb
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\05UtilizandoHerançaESubclasse.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\refint\05UtilizandoHerançaESubclasse.dll
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\05UtilizandoHerançaESubclasse.pdb
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\05UtilizandoHerançaESubclasse.genruntimeconfig.cache
+C:\Users\User\Documents\DesafiosDeCodigoPOO.DIO\05UtilizandoHerançaESubclasse\obj\Debug\net8.0\ref\05UtilizandoHerançaESubclasse.dll
